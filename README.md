@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keanuc19
-- 👀 I’m interested in NFT, Gnerative Art ,Artificial Intelligence , Web Development, App Development
+- 👀 I’m interested in NFT, Artificial Intelligence, Web Development, App Development
 - 🌱 Proficient in C++, Python and SQL
 - 💞️ I’m looking to become a Software Engineer
 - 🍕 President of the Computer Science Club at Jacksonville University
